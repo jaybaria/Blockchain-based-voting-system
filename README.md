@@ -26,5 +26,5 @@ For the Front-End
 >Each block contains a cryptographic hash of the previous block,a timestamp, and transaction data (generally represented as a Merkle tree).
 
 
-##  Why blockchian is emerging ? 
->The blockchain is for authorizing payments of a cryptocurrency between two peers without the need for a centralized 3rd party approving of.the transaction. There are other uses of the blockchain which are more in line with the second point, digital signatures, but they are secondary to the main purpose of peer to peer transfer of value. Bitcoin is blockchain's killer app.
+##  Why blockchain is emerging ? 
+>The blockchain is for authorizing payments of a cryptocurrency between two peers without the need for a centralized 3rd party approving of.the transaction. There are other uses of the blockchain which are more in line with the second point, digital signatures, but they are secondary to the main purpose of peer to peer transfer of value.
