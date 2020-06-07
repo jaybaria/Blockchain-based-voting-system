@@ -5,18 +5,18 @@ which is full proof system that votes cannot be alter or change once applied.
 
 # Technology used in this project are
  
- * Typescipt (https://www.tutorialspoint.com/typescript/index.html)
+ * [Typescipt](https://www.tutorialspoint.com/typescript/index.html)
  
- * Solidity (https://solidity.readthedocs.io/en/v0.6.8/)
+ * [Solidity](https://solidity.readthedocs.io/en/v0.6.8/)
  
  
 For the Front-End
 
- * HTML (https://www.w3schools.com/html/)
+ * [HTML](https://www.w3schools.com/html/)
  
- * CSS (https://www.w3schools.com/css/)
+ * [CSS](https://www.w3schools.com/css/)
  
- * Javascipt (https://www.w3schools.com/js/)
+ * [Javascipt](https://www.w3schools.com/js/)
  
 # FAQ 
 
